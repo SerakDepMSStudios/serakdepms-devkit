@@ -58,10 +58,11 @@ We welcome contributions from everyone. Please read our [CONTRIBUTING.md](./CONT
 
 This project is part of the SerakDepMS Studios ecosystem:
 
-- 🌐 Portfolio: https://serakdepms.github.io/SerakDepMS-Studios/
-- 🎮 Gamer Community: https://serakdepms.github.io/Serakdep-MS-Clan-Official/
-- 💻 Devs Community: https://serakdepms.github.io/Serakdep-MS-Devs-Official/
-- 💬 Discord: https://discord.gg/nphuM8K9aD
+- 🌐 **Main Hub & Portfolio:** [serakdepmsstudios.com](https://serakdepmsstudios.com)
+- 🎮 **Gamer Community:** [serakdepmsstudios.com/gamer/](https://serakdepmsstudios.com/gamer/)
+- 💻 **Devs Community:** [serakdepmsstudios.com/devs/](https://serakdepmsstudios.com/devs/)
+- 💬 **Discord:** [discord.gg/nphuM8K9aD](https://discord.gg/nphuM8K9aD)
+- 🐙 **GitHub Org:** [github.com/SerakDepMSStudios](https://github.com/SerakDepMSStudios)
 
 ---
 
