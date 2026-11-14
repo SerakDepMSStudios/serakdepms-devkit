@@ -29,7 +29,7 @@ Violations may result in:
 2. Temporary ban
 3. Permanent ban
 
-Report issues to: **serakdepmsofficial7@gmail.com**
+Report issues to: **contacto@serakdepmsstudios.com**
 
 ## Scope
 
